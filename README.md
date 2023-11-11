@@ -1,3 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
 # dartExercises
+
+Starting to build multiple exercises to grasp multiple dart concepts.
